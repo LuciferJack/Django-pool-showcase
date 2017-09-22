@@ -16,9 +16,9 @@ Django-pool-showcase!
   - 运行的数据库连接池是PyMysqlPool。
 
 # img show
-#use dynamic pool
+* use dynamic pool
 ![use dynamic pool](showcase.png)
-#use fixed 10 sized pool
+* use fixed 10 sized pool
 ![fixed 10 sized pool](fixed 10.png)
-#use no pool(directly connect)
+* use no pool(directly connect)
 ![directly connect](directly conn.png)
