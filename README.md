@@ -24,5 +24,5 @@ Django-pool-showcase!
 ![directly connect](directlyconn.png)
 
 # vs django default engine
-* 'ENGINE': 'django.db.backends.mysql',
+* 'ENGINE': 'django.db.backends.mysql', no pool effect and direct connected
 ![django.db.backends.mysql](django.png)
