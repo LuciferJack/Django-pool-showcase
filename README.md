@@ -22,3 +22,7 @@ Django-pool-showcase!
 ![fixed 10 sized pool](fixed10.png)
 * use no pool(directly connect)
 ![directly connect](directlyconn.png)
+
+# vs django default engine
+* 'ENGINE': 'django.db.backends.mysql',
+![django.db.backends.mysql](django.png)
